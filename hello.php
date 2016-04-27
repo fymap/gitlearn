@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+    echo 'welcome the world of Docker';
 ?>
