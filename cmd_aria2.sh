@@ -12,7 +12,6 @@ case "$1" in
 start)
     echo -n "Starting aria2c\n"
     sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
-    #sudo -u后面的是你正在使用的用户名，因为我用的pi
 ;;
 stop)
     echo -n "Shutting down aria2c "
