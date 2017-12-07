@@ -11,7 +11,7 @@
 case "$1" in
 start)
     echo -n "Starting aria2c\n"
-    sudo -u pi aria2c --conf-path=/etc/aria2/aria2.conf -D
+    sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
     #sudo -u后面的是你正在使用的用户名，因为我用的pi
 ;;
 stop)
@@ -23,7 +23,7 @@ restart)
     killall aria2c
 sleep 3
 echo -n "Starting aria2c"
-    sudo -u pi aria2c --conf-path=/etc/aria2/aria2.conf -D
+    sudo aria2c --conf-path=/etc/aria2/aria2.conf -D
     #同上面的一样，根据自己的用户名改pi。
 ;;
 *)
