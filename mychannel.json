@@ -66,8 +66,23 @@
       "name": "好莱坞电影",
       "url": "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
     }, {
-      "name": "A",
-      "url": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8"
+      "name": "民视",
+      "url": "http://125.227.35.176:18080/ftv/index.m3u8"
+    }, {
+      "name": "中天新闻",
+      "url": "http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8"
+    },{
+      "name": "战旗电影02",
+      "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
+    },{
+      "name": "战旗电影08",
+      "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
+    }, {
+      "name": "战旗电影22",
+      "url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+    }, {
+      "name": "战旗电影25",
+      "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
     }
   ]
 }
