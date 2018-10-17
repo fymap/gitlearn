@@ -1,86 +1,116 @@
 {
-  "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-  "title":"所有频道",
+  "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+  "title": "所有频道",
   "channels": [
     {
       "name": "周润发电影",
       "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8"
-    }, {
+    },
+    {
       "name": "周润发电影2",
       "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8"
-    }, {
+    },
+    {
       "name": "周星驰电影",
       "url": "http://ws4.streamhls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200/playlist.m3u8"
-    },{
+    },
+    {
       "name": "成龙电影",
       "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "洪金宝电影",
       "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播1",
       "url": "http://flv3.quanmin.tv/live/3766_2046731300.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播2",
       "url": "http://flv3.quanmin.tv/live/3766_2035917884.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播3",
       "url": "http://flv3.quanmin.tv/live/3766_2046736702.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播4",
       "url": "http://flv3.quanmin.tv/live/3766_2029762870.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播5",
       "url": "http://flv3.quanmin.tv/live/3766_2044699692.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播6",
       "url": "http://flv3.quanmin.tv/live/3766_2046540092.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播7",
       "url": "http://flv3.quanmin.tv/live/3766_2038343220.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播8",
       "url": "http://flv3.quanmin.tv/live/3766_2116013880.m3u8"
-    },{
+    },
+    {
       "name": "电影轮播9",
       "url": "http://flv3.quanmin.tv/live/3766_2034214452.m3u8"
-    },{
+    },
+    {
       "name": "黄渤电影",
       "url": "http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "王晶电影",
       "url": "http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "梁朝伟电影",
       "url": "http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "徐峥电影",
       "url": "http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "警匪电影",
       "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8"
-    },{
+    },
+    {
       "name": "灾难电影",
       "url": "http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
-    },{
+    },
+    {
       "name": "好莱坞电影",
       "url": "http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8"
-    }, {
+    },
+    {
       "name": "民视",
       "url": "http://125.227.35.176:18080/ftv/index.m3u8"
-    }, {
+    },
+    {
       "name": "中天新闻",
       "url": "http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8"
-    },{
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://pullhls6.inke.cn/live/1539771027820545/playlist.m3u8"
+    },
+    {
       "name": "战旗电影02",
       "url": "http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8"
-    },{
+    },
+    {
       "name": "战旗电影08",
       "url": "http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8"
-    }, {
+    },
+    {
       "name": "战旗电影22",
       "url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
-    }, {
+    },
+    {
       "name": "战旗电影25",
       "url": "http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8"
     }
