@@ -1,0 +1,122 @@
+{
+	"uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "频道-others",
+	"channels": [
+		{
+			"name": "百事通直播1",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8"
+		},
+		{
+			"name": "百事通直播2",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8"
+		},
+		{
+			"name": "百事通直播3",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8"
+		},
+		{
+			"name": "百事通直播4",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225808/index.m3u8"
+		},
+		{
+			"name": "百事通直播5",
+			"url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8"
+		},
+		{
+			"name": "1080翡翠台",
+			"url": "http://pull6.inke.cn/live/1541939018991640/playlist.m3u8"
+		},
+		{
+			"name": "4KCCTV4",
+			"url": "http://117.148.187.37/PLTV/88888888/224/3221226539/index.m3u8"
+		},
+		{
+			"name": "1",
+			"url": "http://live-stack.cdnvideo.ru/hls/5a8eed0ae563f20a4fc0a657.m3u8"
+		},
+		{
+			"name": "2",
+			"url": "http://live-stack.cdnvideo.ru/hls/5a8ed4e0e563f20a4fc0a594.m3u8"
+		},
+		{
+			"name": "3",
+			"url": "http://live-stack.cdnvideo.ru/hls/5a8ee503e563f20a4fc0a5ed.m3u8"
+		},
+		{
+			"name": "4",
+			"url": "http://live-stack.cdnvideo.ru/hls/5a8e9cdfe563f20a4fc0a36f.m3u8"
+		},
+		{
+			"name": "香港开电视",
+			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+		},
+		{
+			"name": "NR1 4K高清",
+			"url": "http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8"
+		},
+		{
+			"name": "Newtv电影",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8"
+		},
+		{
+			"name": "Newtv惊悚",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8"
+		},
+		{
+			"name": "Newtv精品",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8"
+		},
+		{
+			"name": "Newtv动作",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8"
+		},
+		{
+			"name": "Newtv明星",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8"
+		},
+		{
+			"name": "Newtv家庭",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8"
+		},
+		{
+			"name": "Newtv海外",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8"
+		},
+		{
+			"name": "Newtv军旅",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8"
+		},
+		{
+			"name": "Newtv大剧",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8"
+		},
+		{
+			"name": "Newtv纪录",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8"
+		},
+		{
+			"name": "Newtv动画王国",
+			"url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8"
+		},
+		{
+			"name": "欧美",
+			"url": "http://1290922571.rsc.cdn77.org/vod1/movies/tr/action/spectre007jamesbond.mp4/playlist.m3u8"
+		},
+		{
+			"name": "西游记",
+			"url": "https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8"
+		},
+		{
+			"name": "最佳拍档",
+			"url": "https://aldirect.hls.huya.com/huyalive/30765679-2689675756-11552069408864075776-3048991624-10057-A-0-1_1200.m3u8"
+		},
+		{
+			"name": "成人",
+			"url": "http://51.15.49.176:8081/62AEY8I0uOLygYW7xOcexacNajYIajYINJaIZNxYW0uYI4I2QrRdGra/braztv/index.m3u8"
+		},
+		{
+			"name": "环球电影",
+			"url": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+		}
+	]
+}

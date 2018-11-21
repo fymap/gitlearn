@@ -20,7 +20,8 @@ function build(fname) {
     }
   });
   o.channels = channels;
-  fs.writeFileSync(path.join(__dirname, `${fname}.json`), JSON.stringify(o));  
+  fs.writeFileSync(path.join(__dirname, `${fname}.json`), JSON.stringify(o, null, '\t'));  
 }
 
 build('huya');
+build('others');
