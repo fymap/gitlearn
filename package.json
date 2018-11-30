@@ -1,0 +1,22 @@
+{
+  "name": "mokas",
+  "version": "1.0.0",
+  "description": "``` apt-get install -y wget libcurl4-openssl-dev libevent-dev ca-certificates libssl-dev pkg-config build-essential intltool libxml2-dev libgcrypt-dev libssl-dev",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fymap/mokas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fymap/mokas/issues"
+  },
+  "homepage": "https://github.com/fymap/mokas#readme",
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
