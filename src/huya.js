@@ -54,7 +54,7 @@ function geneList(games) {
   games.forEach((game) => {
     m3u8Arr.channels.push({
       name: game.introduction,
-      url: 'https://aldirect.hls.huya.com' + game.screenshot.substring(game.screenshot.indexOf('com') + 3, game.screenshot.lastIndexOf('/')) + '_1200.m3u8'
+      url: (game.liveSourceType == 0 ? 'https://aldirect.hls.huya.com' : 'https://ws.streamhls.huya.com') + game.screenshot.substring(game.screenshot.indexOf('com') + 3, game.screenshot.lastIndexOf('/')) + '_1200.m3u8'
     })    
   })
   fs.writeFileSync(path.join(__dirname, '../huya_all.json'), JSON.stringify(m3u8Arr, null, '\t'))  
