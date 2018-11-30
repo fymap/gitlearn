@@ -48,7 +48,7 @@ function getGameByCache () {
 function geneList(games) {
   let m3u8Arr = {
     "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
-    "title": "频道-huya",
+    "title": "huya_all",
     "channels": []
   }
   games.forEach((game) => {
