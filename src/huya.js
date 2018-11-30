@@ -61,5 +61,5 @@ function geneList(games) {
   console.log('m3u8文件生成完毕')
 }
 
-// getGames()
-getGameByCache()
+getGames()
+// getGameByCache()
