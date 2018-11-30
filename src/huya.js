@@ -153,15 +153,18 @@ function buildM3U8 () {
     "title": "huya_all",
     "channels": []
   }
+  var dsj = []
   games.forEach(game => {
     if (game.url !== '' && game.url !== 'not found') {
       o.channels.push({
         name: game.name,
         url: game.url
       })
+      dsj.push(game.name + ',' + game.url)
     }
   });
   fs.writeFileSync(path.join(__dirname, '../huya_all.json'), JSON.stringify(o, null, '\t'))
+  fs.writeFileSync(path.join(__dirname, '../channel.txt'), dsj.join('\r\n'))
 }
 
 function main() {
