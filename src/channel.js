@@ -23,6 +23,5 @@ function build(fname) {
   fs.writeFileSync(path.join(__dirname, `../${fname}.json`), JSON.stringify(o, null, '\t'));  
 }
 
-// build('huya');
 // build('others');
 build('cctv')

@@ -2,6 +2,7 @@ const request = require('request')
 const cheerio = require('cheerio')
 const fs = require('fs')
 const path = require('path')
+
 function getGames(page = 1, gameArr = []) {
   let pageSize = 120
   let opts = {
@@ -33,7 +34,7 @@ function getGames(page = 1, gameArr = []) {
         getGames(page + 1, gameArr)
       } else {
         console.log('gameArr.length: ' + gameArr.length)
-        fs.writeFileSync(path.join(__dirname, '../huya/huya.json'), JSON.stringify(gameArr, null, '\t'))
+        fs.writeFileSync(path.join(__dirname, '../huya/huya_step_1.json'), JSON.stringify(gameArr, null, '\t'))
         console.log('数据保存成功')
         // geneList(gameArr)
       }
@@ -42,7 +43,7 @@ function getGames(page = 1, gameArr = []) {
 }
 
 function getGameByCache() {
-  let data = fs.readFileSync(path.join(__dirname, '../huya/huya.json'), 'utf8')
+  let data = fs.readFileSync(path.join(__dirname, '../huya/huya_step_1.json'), 'utf8')
   geneList(JSON.parse(data))
 }
 
@@ -95,18 +96,19 @@ function geneList(games, savedArr = []) {
     if (arr.length > 0) {
       geneList(arr, savedArr)
     } else {
-      fs.writeFileSync(path.join(__dirname, '../huya/huya_middle.json'), JSON.stringify(savedArr, null, '\t'))
+      fs.writeFileSync(path.join(__dirname, '../huya/huya_step_2.json'), JSON.stringify(savedArr, null, '\t'))
     }
   })
 }
 
 function reCheck() {
-  var games = fs.readFileSync(path.join(__dirname, '../huya/huya_middle.json'), 'utf8')
+  var games = fs.readFileSync(path.join(__dirname, '../huya/huya_step_2.json'), 'utf8')
   games = JSON.parse(games)
 
   let promises = games.map(game => {
     return new Promise((resolve, reject) => {
-      if (game.url === '') {
+      if (game.url === '') {    
+        console.log('url: ' + 'https://m.huya.com/' + game.profileRoom)    
         request({
           url: 'https://m.huya.com/' + game.profileRoom,
           timeout: 20000,
@@ -118,15 +120,15 @@ function reCheck() {
         }, (err, response, body) => {
           if (err) {
             console.log(err)
-          }
+          }          
           if (!err && response.statusCode === 200) {
             let $ = cheerio.load(body)
-            let link = $('video').attr('src')
+            let link = $('video').attr('src')            
             if (link) {
               game.url = 'https:' + link
               resolve(game)
             } else {
-              reject('no link')
+              resolve('no link')
             }            
           } else {
             reject(err)
@@ -138,15 +140,15 @@ function reCheck() {
     })
   })
   Promise.all(promises).then(function (games) {
-    console.log(games.length)
-    fs.writeFileSync(path.join(__dirname, '../huya/huya_final.json'), JSON.stringify(games, null, '\t'))
+    console.log('个数：' + games.length)
+    fs.writeFileSync(path.join(__dirname, '../huya/huya_step_3.json'), JSON.stringify(games, null, '\t'))
   }).catch(reason => {
-    console.log(reason)
+    console.log('失败原因: ' + reason)
   })
 }
 
 function buildM3U8 () {
-  var games = fs.readFileSync(path.join(__dirname, '../huya/huya_final.json'), 'utf8')
+  var games = fs.readFileSync(path.join(__dirname, '../huya/huya_step_3.json'), 'utf8')
   games = JSON.parse(games)
   var o = {
     "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
@@ -163,12 +165,13 @@ function buildM3U8 () {
       dsj.push(game.name + ',' + game.url)
     }
   });
+  console.log('个数：' + dsj.length)
   fs.writeFileSync(path.join(__dirname, '../huya_all.json'), JSON.stringify(o, null, '\t'))
-  fs.writeFileSync(path.join(__dirname, '../channel.txt'), dsj.join('\r\n'))
+  // fs.writeFileSync(path.join(__dirname, '../channel.txt'), dsj.join('\r\n'))
 }
 
 function main() {
-  console.log(process.argv)
+  // console.log(process.argv)
   let command = process.argv.length > 2 ? process.argv[2] : 'fetch'
   switch (command) {
     case 'fetch':
