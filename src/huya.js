@@ -128,7 +128,8 @@ function reCheck() {
               game.url = 'https:' + link
               resolve(game)
             } else {
-              resolve('no link')
+              game.url = 'no link'
+              resolve(game)
             }            
           } else {
             reject(err)
@@ -157,9 +158,10 @@ function buildM3U8 () {
   }
   var dsj = []
   games.forEach(game => {
-    if (game.url !== '' && game.url !== 'not found') {
+    if (game.url !== '' && game.url !== 'not found' && game.url !== 'no link') {
+      // console.log(game.name)
       o.channels.push({
-        name: game.name,
+        name: game.name.substr(0, 10),
         url: game.url
       })
       dsj.push(game.name + ',' + game.url)

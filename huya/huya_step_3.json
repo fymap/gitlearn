@@ -1599,7 +1599,11 @@
 		"profileRoom": "14797980",
 		"url": "https://ws.streamhls.huya.com/huyalive/1341079596-1341079596-5759893006152892416-4418283982-10057-A-0-1_1200/playlist.m3u8"
 	},
-	"no link",
+	{
+		"name": "票房泡沫",
+		"profileRoom": "16092904",
+		"url": "no link"
+	},
 	{
 		"name": "陈翔六点半·更新到184集啦",
 		"profileRoom": "11274154",
