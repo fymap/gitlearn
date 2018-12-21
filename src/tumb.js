@@ -76,8 +76,8 @@ function parse(blogId) {
 
 function main() {
   let command = process.argv.length > 2 ? process.argv[2] : 'fetch'
-  let blogIds = ['yesge', 'moxiaomei', 'zlsgc', 'gggggg3b0']
-  let blogId = blogIds[3]
+  let blogIds = ['yesge', 'moxiaomei', 'zlsgc', 'gggggg3b0', 'charlieweng', 'hanguo3']
+  let blogId = blogIds[5]
   switch (command) {
     case 'fetch':
       fetchAll(blogId).then(data => {
