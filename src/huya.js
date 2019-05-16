@@ -3,7 +3,7 @@ const cheerio = require('cheerio')
 const fs = require('fs')
 const path = require('path')
 
-function getGames(page = 1, gameArr = []) {
+function getGames (page = 1, gameArr = []) {
   let pageSize = 120
   let opts = {
     // url: 'http://www.huya.com/cache.php?m=Game&do=ajaxGetGameLive&gameId=2135&page=1&pageSize=500',
@@ -25,7 +25,7 @@ function getGames(page = 1, gameArr = []) {
     }
     if (!err && response.statusCode === 200) {
       let o = JSON.parse(body)
-      let n = o.total % pageSize
+      // let n = o.total % pageSize
       let pageNum = Math.ceil(o.total / pageSize)
       console.log(`当前页数: ${page} 总页数: ${pageNum}`)
       gameArr = gameArr.concat(o.profileList)
@@ -42,12 +42,12 @@ function getGames(page = 1, gameArr = []) {
   })
 }
 
-function getGameByCache() {
+function getGameByCache () {
   let data = fs.readFileSync(path.join(__dirname, '../huya/huya_step_1.json'), 'utf8')
   geneList(JSON.parse(data))
 }
 
-function geneList(games, savedArr = []) {
+function geneList (games, savedArr = []) {
   let arr = games.slice(0, 20)
   const promises = arr.map(el => {
     return new Promise((resolve, reject) => {
@@ -101,14 +101,14 @@ function geneList(games, savedArr = []) {
   })
 }
 
-function reCheck() {
+function reCheck () {
   var games = fs.readFileSync(path.join(__dirname, '../huya/huya_step_2.json'), 'utf8')
   games = JSON.parse(games)
 
   let promises = games.map(game => {
     return new Promise((resolve, reject) => {
-      if (game.url === '') {    
-        console.log('url: ' + 'https://m.huya.com/' + game.profileRoom)    
+      if (game.url === '') {
+        console.log('url: ' + 'https://m.huya.com/' + game.profileRoom)
         request({
           url: 'https://m.huya.com/' + game.profileRoom,
           timeout: 20000,
@@ -120,17 +120,17 @@ function reCheck() {
         }, (err, response, body) => {
           if (err) {
             console.log(err)
-          }          
+          }
           if (!err && response.statusCode === 200) {
             let $ = cheerio.load(body)
-            let link = $('video').attr('src')            
+            let link = $('video').attr('src')
             if (link) {
               game.url = 'https:' + link
               resolve(game)
             } else {
               game.url = 'no link'
               resolve(game)
-            }            
+            }
           } else {
             reject(err)
           }
@@ -152,9 +152,9 @@ function buildM3U8 () {
   var games = fs.readFileSync(path.join(__dirname, '../huya/huya_step_3.json'), 'utf8')
   games = JSON.parse(games)
   var o = {
-    "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
-    "title": "huya_all",
-    "channels": []
+    'uuid': '64350b50-a810-4901-b86b-7a5106bdef2c',
+    'title': 'huya_all',
+    'channels': []
   }
   var dsj = []
   games.forEach(game => {
@@ -166,13 +166,13 @@ function buildM3U8 () {
       })
       dsj.push(game.name + ',' + game.url)
     }
-  });
+  })
   console.log('个数：' + dsj.length)
   fs.writeFileSync(path.join(__dirname, '../huya_all.json'), JSON.stringify(o, null, '\t'))
   // fs.writeFileSync(path.join(__dirname, '../channel.txt'), dsj.join('\r\n'))
 }
 
-function main() {
+function main () {
   // console.log(process.argv)
   let command = process.argv.length > 2 ? process.argv[2] : 'fetch'
   switch (command) {
@@ -189,11 +189,8 @@ function main() {
       buildM3U8()
       break
     default:
-      break;
+      break
   }
 }
 
 main()
-
-
-
