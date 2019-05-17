@@ -3,124 +3,124 @@
 	"title": "douyu",
 	"channels": [
 		{
-			"name": "【花卷陪看】豆瓣高分电影",
-			"url": "http://hls1a.douyucdn.cn/live/52787ruHlJbNwa4r_2200/playlist.m3u8?wsSecret=f855338d439bceb8330aab981e4b2e95&wsTime=1558010662&token=h5-douyu-0-52787-8aa5b39794dfb24a69e5d2fa334cb6c8&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【刀刀】科幻 动作 喜剧 电影",
-			"url": "http://hlsa.douyucdn.cn/live/747764rw06eMPDOO_2200/playlist.m3u8?wsSecret=38f840558261ecd192bbabba60506510&wsTime=1558010663&token=h5-douyu-0-747764-59448c66374cb785e54975a456cbc773&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "❤️朵朵陪看❤️欧美  华语 动作 科幻",
-			"url": "http://hls3.douyucdn.cn/live/259534rI3zMBBz2M_2200/playlist.m3u8?wsSecret=3fa05d268cebde5923011c7848000461&wsTime=1558010663&token=h5-douyu-0-259534-8fc10a2a5331cd952f55262ab114f9ae&did=e1256267b51fc376853d2e3c00001531"
+			"name": "赵本山那些事",
+			"url": "http://hls3a.douyucdn.cn/live/3789245rKLDwC0bn_2200/playlist.m3u8?wsSecret=71ac7ae539d5b7b6462ab47c631cc51d&wsTime=1558061931&token=h5-douyu-0-3789245-1ab31bb490830d8f75a8b6f8cbbb06ed&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "【小宇尬舞】科幻 灾难 动作 喜剧 电影",
-			"url": "http://hls1a.douyucdn.cn/live/323876rCz8PFqKtg_2200/playlist.m3u8?wsSecret=24804545e993b7f82effcb32e85cb612&wsTime=1558010663&token=h5-douyu-0-323876-1ae57a7a5d4bfb6954610736ca1b0942&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls1a.douyucdn.cn/live/323876rCz8PFqKtg_2200/playlist.m3u8?wsSecret=c92ddb202c298b94eecea8396834c1bf&wsTime=1558061932&token=h5-douyu-0-323876-7fd2a3200b36fc0a043d730e4f8bcf7e&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "【4K超清点播】国内外电影，海量佳作！",
-			"url": "http://hls3.douyucdn.cn/live/925724rA9aP8QQc3_2200/playlist.m3u8?wsSecret=ad888e71b2007338c8131b49d04d712e&wsTime=1558010664&token=h5-douyu-0-925724-c6646ab0c3f9e53b1ea8fde4dd2be229&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "❤️奶虫❤️恐怖 丧尸 鬼片 怪兽 灾难",
-			"url": "http://hls3a.douyucdn.cn/live/263824rru4mZg4IT_2200/playlist.m3u8?wsSecret=01c53b9424e48421776aea381b7e6040&wsTime=1558010664&token=h5-douyu-0-263824-db63331655ae530e12844b966def6626&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【小奈忆】性感渣女在线陪看",
-			"url": "http://hls3a.douyucdn.cn/live/820180rTR1yCTCsH_2200/playlist.m3u8?wsSecret=953777e2e31cc4630291475b163b9c3c&wsTime=1558010664&token=h5-douyu-0-820180-bea6f0f1f108603f7c5db674cca780dd&did=e1256267b51fc376853d2e3c00001531"
+			"name": "【刀刀】科幻 动作 喜剧 电影",
+			"url": "http://hlsa.douyucdn.cn/live/747764rw06eMPDOO_2200/playlist.m3u8?wsSecret=3ad756d1c2e83eb5934a6cbf9bcbcbac&wsTime=1558061933&token=h5-douyu-0-747764-b05226e6f2f811a376e86e417ce49849&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "【贝贝】军旅 喜剧 动作 意大利炮",
-			"url": "http://hlsa.douyucdn.cn/live/431460ri6uCnfXDT_2200/playlist.m3u8?wsSecret=97f73898d244b5706c6a3e63e82c22a3&wsTime=1558010665&token=h5-douyu-0-431460-5ed4465809e131ae200e3b36c9b41ab7&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hlsa.douyucdn.cn/live/431460ri6uCnfXDT_2200/playlist.m3u8?wsSecret=5018fd6008712615ac598ff232e33936&wsTime=1558061933&token=h5-douyu-0-431460-004d4f14b6c4539dcd669118f002e4e1&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "❤️可乐❤️电影 欧美 科幻经典 周星驰",
-			"url": "http://hls1a.douyucdn.cn/live/20415rnWbjg6Ex1K_2200/playlist.m3u8?wsSecret=d26941ae5d86814a735f6fa934633035&wsTime=1558010665&token=h5-douyu-0-20415-265c4edb79abd65b123b630874b7e628&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【污夕阳】科幻 灾难 喜剧 动作 电影",
-			"url": "http://hls3.douyucdn.cn/live/3649581rcSYNleP9_2200/playlist.m3u8?wsSecret=b2891292e0383d81364a5fbcbbef3bb4&wsTime=1558010665&token=h5-douyu-0-3649581-6c4bd83d3b12dad2d581c78777c93754&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "❤️砂糖❤️华语 经典 动作 喜剧 电影",
-			"url": "http://hls1a.douyucdn.cn/live/6557037r4wAI7fiY_2200/playlist.m3u8?wsSecret=2890c2db25633d86f1efacfe1c122c60&wsTime=1558010666&token=h5-douyu-0-6557037-33860a4e5b82880d033c3fd5685d7dfd&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【神乐】华语 经典 电影 周星驰 星爷",
-			"url": "http://hlsa.douyucdn.cn/live/85894rmovieChow_2200/playlist.m3u8?wsSecret=21e76326eaf96d4957aea5bdc5125d00&wsTime=1558010666&token=h5-douyu-0-85894-80fe1a87de79d706922c2fba597445fd&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【米娅陪看】喜剧 动作 科幻 陪你看电影",
-			"url": "http://hls3a.douyucdn.cn/live/6537888r8mMm7czm_2200/playlist.m3u8?wsSecret=247ef271b2a2eec36d928f1b7df452e9&wsTime=1558010666&token=h5-douyu-0-6537888-6d77cb0d29d50d14e83fafe8438d134d&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【雪儿】你宠着我 我也会宠着你",
-			"url": "http://hlsa.douyucdn.cn/live/875795rWVtBOI2AI_2200/playlist.m3u8?wsSecret=bc4b5aa41f0d8fce8451537c26d6251d&wsTime=1558010667&token=h5-douyu-0-875795-5980baa204488b59342c55a3f85971f6&did=e1256267b51fc376853d2e3c00001531"
+			"name": "【小奈忆】性感渣女在线陪看",
+			"url": "http://hls3a.douyucdn.cn/live/820180rTR1yCTCsH_2200/playlist.m3u8?wsSecret=b3762c8a30790170d788e176f68fea4f&wsTime=1558061933&token=h5-douyu-0-820180-e623b5fb18f3b0680ce09130062ff5f2&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "【贝爷影厅】经典 科幻 动作 灾难 巨兽",
-			"url": "http://hls1a.douyucdn.cn/live/252802rbQGaZXUQi_2200/playlist.m3u8?wsSecret=e6e4c8a5a7a8af480093f4384172d9d1&wsTime=1558010667&token=h5-douyu-0-252802-cfed8dd326ec94bebfb3f4a9e3f50615&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls1a.douyucdn.cn/live/252802rbQGaZXUQi_2200/playlist.m3u8?wsSecret=330e0a4cb58e95b8c1ce5f1ab19a20ad&wsTime=1558061934&token=h5-douyu-0-252802-867ba1c66c4e04e677b046daee82825d&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "浅浅❀漫威专场·你的宝藏女孩",
-			"url": "http://hls1a.douyucdn.cn/live/1543154rYQwPI6VB/playlist.m3u8?wsSecret=e30741c766aa5b8c6f026c29406f6ea2&wsTime=1558010667&token=h5-douyu-0-1543154-28644d60a01db6872aedcd146fdccf58&did=e1256267b51fc376853d2e3c00001531"
+			"name": "❤️可乐❤️电影 欧美 科幻经典 周星驰",
+			"url": "http://hls1a.douyucdn.cn/live/20415rnWbjg6Ex1K_2200/playlist.m3u8?wsSecret=558b94810333c9de1450f78602c329db&wsTime=1558061934&token=h5-douyu-0-20415-48124c63d2eea7a79727d042ae13680c&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "【凌儿】枪战 科幻 真人互动",
-			"url": "http://hls3.douyucdn.cn/live/1377142rog27E7Zk/playlist.m3u8?wsSecret=7c9a94a61a0de0c75ec2ab0ddc12944f&wsTime=1558010668&token=h5-douyu-0-1377142-018f96b39f5d631b110be1da8c4dcbd4&did=e1256267b51fc376853d2e3c00001531"
+			"name": "❤️奶虫❤️恐怖 科幻 喜剧 动作 经典",
+			"url": "http://hls3a.douyucdn.cn/live/263824rru4mZg4IT_2200/playlist.m3u8?wsSecret=c3524826bf2e5b0a6a7f6aeaea2d35b6&wsTime=1558061935&token=h5-douyu-0-263824-5a5c30bbc6a14e63278e7dd70cf20026&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【污夕阳】科幻 灾难 喜剧 动作 电影",
+			"url": "http://hls3.douyucdn.cn/live/3649581rcSYNleP9_2200/playlist.m3u8?wsSecret=c8cd621b84cbc1130954be7a7ad0ab2e&wsTime=1558061935&token=h5-douyu-0-3649581-629df018068124907706524b64f061fd&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "国外 丧尸 恐怖 灾难 惊悚",
+			"url": "http://hls3.douyucdn.cn/live/3619464reCIHKUHi/playlist.m3u8?wsSecret=7c510092b20bbb81d4f7f9cef7ab4513&wsTime=1558061936&token=h5-douyu-0-3619464-b7c63eebfaa40b538e090c9c93b3ab03&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "❤️砂糖❤️华语 经典 动作 喜剧 电影",
+			"url": "http://hls1a.douyucdn.cn/live/6557037r4wAI7fiY_2200/playlist.m3u8?wsSecret=1e3c8dce771a71fb18ba4a0b6efbaa02&wsTime=1558061939&token=h5-douyu-0-6557037-7486a5d0c3859f869c0259439e8ff559&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【花卷陪看】豆瓣高分电影",
+			"url": "http://hls1a.douyucdn.cn/live/52787ruHlJbNwa4r_2200/playlist.m3u8?wsSecret=ceac1622366d64ca65b49c2d624f8982&wsTime=1558061939&token=h5-douyu-0-52787-990fd6678e00f83488f501b5d948624b&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "❤️朵朵陪看❤️欧美  华语 动作 科幻",
+			"url": "http://hls3.douyucdn.cn/live/259534rI3zMBBz2M_2200/playlist.m3u8?wsSecret=d2e1fff51f2f92ab1d5867377e74def8&wsTime=1558061943&token=h5-douyu-0-259534-7b043ee93ab5f7e714feced864b0a5e6&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【雪儿】你宠着我 我也会宠着你",
+			"url": "http://hlsa.douyucdn.cn/live/875795rWVtBOI2AI_2200/playlist.m3u8?wsSecret=d2393c13abe577ff58ede0160eb99886&wsTime=1558061946&token=h5-douyu-0-875795-796c235fb9ea963c90b44500ad962cbd&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【米娅陪看】喜剧 动作 科幻 陪你看电影",
+			"url": "http://hls3a.douyucdn.cn/live/6537888r8mMm7czm/playlist.m3u8?wsSecret=75173801167710582eab3f6df46860f6&wsTime=1558061950&token=h5-douyu-0-6537888-9964082042ac551017647acb8d8aa6eb&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "浅浅❀华语经典·你的宝藏女孩",
+			"url": "http://hls1a.douyucdn.cn/live/1543154rJTUT49mq_2200/playlist.m3u8?wsSecret=6f462e115eb4ae83a34df1abbe2664f8&wsTime=1558061953&token=h5-douyu-0-1543154-b2bc983af906b6e22d0cc472fe0c5865&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【布丁陪看】欧美 超英 科幻",
+			"url": "http://hls3.douyucdn.cn/live/99888rsWcqAwpHzz/playlist.m3u8?wsSecret=9d0b63c025585357370eea6ca7bce1d3&wsTime=1558061957&token=h5-douyu-0-99888-f9ce2040b0a6f90ca2680b368fce9a3b&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "❤️桃酱❤️欧美 灾难 科幻 喜剧 电影",
-			"url": "http://hls3a.douyucdn.cn/live/6482290rNSsg08NB/playlist.m3u8?wsSecret=8d637df1226f0aa1117e6ac4ec95fed2&wsTime=1558010668&token=h5-douyu-0-6482290-6522a109a14cb3c6f7e3c3d5bed88c58&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls3a.douyucdn.cn/live/6482290rwWHyaaNk/playlist.m3u8?wsSecret=1a3ded471272a8d84357d2ed84512e46&wsTime=1558061960&token=h5-douyu-0-6482290-31217e14fd439519f1ac402b2ee21d61&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "【周星驰】【林正英】【粤语电影】",
-			"url": "http://hls3a.douyucdn.cn/live/4167368rhVDL0zpI/playlist.m3u8?wsSecret=993ff14cb8d930604775b8a023e1ebbe&wsTime=1558010669&token=h5-douyu-0-4167368-d6c636a2d883c5e56083c095b69aea9f&did=e1256267b51fc376853d2e3c00001531"
+			"name": "【神乐】华语 经典 电影 周星驰 星爷",
+			"url": "http://hlsa.douyucdn.cn/live/85894rmovieChow_2200/playlist.m3u8?wsSecret=96ce0a4e2a7a60d784a8898c771d9e4c&wsTime=1558061964&token=h5-douyu-0-85894-711ab5fe13e29dce5e9a77524bc5fe95&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "「橙子Orange」「港剧」「19点见」",
-			"url": "http://hls3.douyucdn.cn/live/4549169rpN76Ji8e/playlist.m3u8?wsSecret=d0efbd4c808da148d65aafdd312ae596&wsTime=1558010669&token=h5-douyu-0-4549169-df988e7e6d927e93c6dc36da69a9e3ba&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "❤超甜可可酱❤就是你 进来~",
-			"url": "http://hls3.douyucdn.cn/live/902379r7MFNgdypw_2200/playlist.m3u8?wsSecret=82fd123b965c18ad6d8c74c6a4cab8e5&wsTime=1558010670&token=h5-douyu-0-902379-1be7c41e2cc2c5079fa1f86a5b51288a&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "距离你0.01m❤️萌新主播❤️",
-			"url": "http://hls3a.douyucdn.cn/live/6723743rLt1mHd1a_2200/playlist.m3u8?wsSecret=544a831b30c79fcb7c39743e89943251&wsTime=1558010670&token=h5-douyu-0-6723743-e8a1a3ad3c3ef1284b1a0e17abcb2c5f&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【林正英】僵尸 女鬼 弹幕 护体",
-			"url": "http://hlsa.douyucdn.cn/live/218859r5g3ozHon1_2200/playlist.m3u8?wsSecret=123279fe0fa1808b4ed2770224f7b6c3&wsTime=1558010670&token=h5-douyu-0-218859-d4576d3ab3296b1511b29fd7c7f11938&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "悬疑港剧美剧国产经典",
-			"url": "http://hls3a.douyucdn.cn/live/5869182rbaISJTzI/playlist.m3u8?wsSecret=82f119874fa1d0eb0ba3f906f72a040d&wsTime=1558010672&token=h5-douyu-0-5869182-9cbe381c82b869e2c8b040edb893993e&did=e1256267b51fc376853d2e3c00001531"
-		},
-		{
-			"name": "【超清】经典港剧天地",
-			"url": "http://hls3a.douyucdn.cn/live/4290711rmuYKT5GF/playlist.m3u8?wsSecret=fc94e4c53f3c6580d48a0ba7bc1a9547&wsTime=1558010672&token=h5-douyu-0-4290711-d72ef5e56707e8d4a33bec54b52cebfb&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls3.douyucdn.cn/live/4549169rpN76Ji8e/playlist.m3u8?wsSecret=7f455189eecb9176cad45d270b498cf5&wsTime=1558061964&token=h5-douyu-0-4549169-3786fdcc580125f6373aa9bbd32cd681&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影",
-			"url": "http://hls1a.douyucdn.cn/live/96577rxakwuFGSFF_2200/playlist.m3u8?wsSecret=731af96582595cb8e420db0800d1b3c8&wsTime=1558010673&token=h5-douyu-0-96577-cbd9360aff9ed236ff904f5f11f8eea3&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls1a.douyucdn.cn/live/96577rxakwuFGSFF_2200/playlist.m3u8?wsSecret=6bd6d71d088cd0a584245f6dc93a690f&wsTime=1558061968&token=h5-douyu-0-96577-645dcc5b70ff0b19553ec7dfc4e6c5ca&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "❤超甜可可酱❤就是你 进来~",
+			"url": "http://hls3.douyucdn.cn/live/902379rrZbV6RAkq/playlist.m3u8?wsSecret=66ca7f42a78626b01d5b45cb55d4c673&wsTime=1558061968&token=h5-douyu-0-902379-d025caf796dd03cf5b213b22166799d9&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "距离你0.01m❤️萌新主播❤️",
+			"url": "http://hls3a.douyucdn.cn/live/6723743rLt1mHd1a/playlist.m3u8?wsSecret=193551907a1f7cfc43975bc6809a21ed&wsTime=1558061970&token=h5-douyu-0-6723743-3f4e4724c40f5185a4aa7e14e61e98cc&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "❤️兮里❤️高分 科幻 动作 喜剧 惊悚",
-			"url": "http://hls1a.douyucdn.cn/live/36337reki4gOrN45_2200/playlist.m3u8?wsSecret=7df39a0805330dedb3c4b3b24f08cd28&wsTime=1558010673&token=h5-douyu-0-36337-f21cfb87fcf1e9631ca16f1f494d361b&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hls1a.douyucdn.cn/live/36337reki4gOrN45_2200/playlist.m3u8?wsSecret=4a17fd2137903606f3adc73ebe7b7248&wsTime=1558061981&token=h5-douyu-0-36337-5c2a988b594d944520dc17b3b8d1bbaa&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【林正英】僵尸 女鬼 弹幕 护体",
+			"url": "http://hlsa.douyucdn.cn/live/218859r5g3ozHon1_2200/playlist.m3u8?wsSecret=8e1231c07b20ad96469f8bf511c1324e&wsTime=1558061981&token=h5-douyu-0-218859-b80fbe23daecb51f8fd5ec40b877ac98&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
 			"name": "【s1134】经典 科幻 动作 灾难",
-			"url": "http://hlsa.douyucdn.cn/live/248753rcATVt0LWZ/playlist.m3u8?wsSecret=3ca73a736554942e01972a9637ab516c&wsTime=1558010673&token=h5-douyu-0-248753-8fe227d543a501b49078dfca2a8e9bfe&did=e1256267b51fc376853d2e3c00001531"
+			"url": "http://hlsa.douyucdn.cn/live/248753rcATVt0LWZ/playlist.m3u8?wsSecret=4245cddc66560020b78a75ed2d0e2062&wsTime=1558061982&token=h5-douyu-0-248753-89e3fcba6a2e28b14033faea9793028d&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "1米9哪吒不吃鸡就跳舞!！",
-			"url": "http://hls3a.douyucdn.cn/live/5900940rEdGEyR1O/playlist.m3u8?wsSecret=60d3e7bca1b7a714a0b196c849cfd21c&wsTime=1558010675&token=h5-douyu-0-5900940-ecd8c9b836b8f459f95be22625cbf0fa&did=e1256267b51fc376853d2e3c00001531"
+			"name": "黑色 黄金段",
+			"url": "http://hls3.douyucdn.cn/live/1005344r8vXfw9fq/playlist.m3u8?wsSecret=0a86c6b10d440db401c53d7a112e0b2a&wsTime=1558061986&token=h5-douyu-0-1005344-9cbc49d69afb0d8c74c8a0839303ecaa&did=b9fe38d83555b028b8ee2cf500001531"
 		},
 		{
-			"name": "【星女神】经典连续剧",
-			"url": "http://hls3.douyucdn.cn/live/3722203r2vyyoF26/playlist.m3u8?wsSecret=69f9cba731e719017f515d54af10d661&wsTime=1558010675&token=h5-douyu-0-3722203-367d6fb92d37cda7c0695912dbedb14f&did=e1256267b51fc376853d2e3c00001531"
+			"name": "❤️小野喵陪看❤️ 华语 经典 电影",
+			"url": "http://hls3a.douyucdn.cn/live/6566671rAblVNuqm/playlist.m3u8?wsSecret=126a6eb98da0775991ded4f53d665ba7&wsTime=1558061986&token=h5-douyu-0-6566671-25a3ebcc6dc0b924b32c50fb0e83b200&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【小鸽陪看】动作 枪战 华语 经典",
+			"url": "http://hlsa.douyucdn.cn/live/3928r9p0BHMDG_2200/playlist.m3u8?wsSecret=479f7e54a93e09058217aa803159112e&wsTime=1558061990&token=h5-douyu-0-3928-066e91303465b9a9b83e2ed610e667f7&did=b9fe38d83555b028b8ee2cf500001531"
+		},
+		{
+			"name": "【周星驰】星爷 喜剧之王 经典电影 神乐",
+			"url": "http://hlsa.douyucdn.cn/live/122402rK7MO9bXSq/playlist.m3u8?wsSecret=598d7e8acdba0565aabb2919c3d6509d&wsTime=1558061993&token=h5-douyu-0-122402-ee05d3bf80cfe41d6bc42cfa19eac3b5&did=b9fe38d83555b028b8ee2cf500001531"
 		}
 	]
 }

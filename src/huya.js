@@ -168,7 +168,7 @@ function buildM3U8 () {
     }
   })
   console.log('个数：' + dsj.length)
-  fs.writeFileSync(path.join(__dirname, '../huya_all.json'), JSON.stringify(o, null, '\t'))
+  fs.writeFileSync(path.join(__dirname, '../data/huya_all.json'), JSON.stringify(o, null, '\t'))
   // fs.writeFileSync(path.join(__dirname, '../channel.txt'), dsj.join('\r\n'))
 }
 

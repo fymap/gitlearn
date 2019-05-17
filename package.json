@@ -7,19 +7,22 @@
     "fetch": "node src/huya.js fetch",
     "build": "node src/huya.js build",
     "check": "node src/huya.js check",
-    "m3u8": "node src/huya.js m3u8"
+    "m3u8": "node src/huya.js m3u8",
+    "huya": "node src/huya.js fetch && node src/huya.js build && node src/huya.js check && node src/huya.js m3u8",
+    "douyu": "node src/douyu.js fetch"
   },
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.2",
     "eslint": "^5.16.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-node": "^9.0.1",
     "eslint-plugin-promise": "^4.1.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "request": "^2.88.0"
+    "eslint-plugin-standard": "^4.0.0"
   },
   "dependencies": {
-    "puppeteer": "^1.16.0"
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "puppeteer": "^1.16.0",
+    "request-promise-native": "^1.0.7"
   }
 }
