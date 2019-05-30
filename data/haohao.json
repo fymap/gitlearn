@@ -1,0 +1,162 @@
+{
+  "uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+  "title": "我们都要好好的",
+  "channels": [
+    {
+      "name": "第1",
+      "url": "http://cn3.fa1255.cn/hls/20190508/45c95e0e272f6b15d35b9e2c6a1311cd/1557324366/index.m3u8"
+    },
+    {
+      "name": "第2",
+      "url": "http://cn3.fa1255.cn/hls/20190509/7f79179051665c7dd490cb55bf3b4a73/1557408299/index.m3u8"
+    },
+    {
+      "name": "第3",
+      "url": "http://cn3.fa1255.cn/hls/20190509/03e0e37805a01336329c5e85ecc97d6a/1557408681/index.m3u8"
+    },
+    {
+      "name": "第4",
+      "url": "http://cn3.fa1255.cn/hls/20190510/d1a423bd4e11225a04bd2cda8b7f7e21/1557499725/index.m3u8"
+    },
+    {
+      "name": "第5",
+      "url": "http://cn3.fa1255.cn/hls/20190510/d01dccdecfcb2d46fe800888c7cc6a6b/1557500036/index.m3u8"
+    },
+    {
+      "name": "第6",
+      "url": "http://cn3.fa1255.cn/hls/20190512/ff2b9bbbb92a46bcc4e0cc0b18e125ed/1557653087/index.m3u8"
+    },
+    {
+      "name": "第7",
+      "url": "http://cn3.fa1255.cn/hls/20190512/f49f0535e2979fab5d153be6c6fea232/1557653471/index.m3u8"
+    },
+    {
+      "name": "第8",
+      "url": "http://cn3.fa1255.cn/hls/20190512/38f9ad76662c3ad58bfb884faddbdb1d/1557667221/index.m3u8"
+    },
+    {
+      "name": "第9",
+      "url": "http://cn3.fa1255.cn/hls/20190512/f953923d344d72a952f83ac9e1ae60e0/1557667604/index.m3u8"
+    },
+    {
+      "name": "第10",
+      "url": "http://cn3.fa1255.cn/hls/20190513/327249e8779225d68b897c5e3e85a4f4/1557754570/index.m3u8"
+    },
+    {
+      "name": "第11",
+      "url": "http://cn3.fa1255.cn/hls/20190513/d35bfd6441ee21f1a3d659cc2eb2c0f1/1557754956/index.m3u8"
+    },
+    {
+      "name": "第12",
+      "url": "http://cn3.fa1255.cn/hls/20190514/1bc85964d401265ac13fa71ebb3dca3e/1557840022/index.m3u8"
+    },
+    {
+      "name": "第13",
+      "url": "http://cn3.fa1255.cn/hls/20190514/4a3ed8c6feeabb844c72dcf38374b67c/1557840402/index.m3u8"
+    },
+    {
+      "name": "第14",
+      "url": "http://cn3.fa1255.cn/hls/20190515/e53e79b401247a60d92c9d95e08148c0/1557930725/index.m3u8"
+    },
+    {
+      "name": "第15",
+      "url": "http://cn3.fa1255.cn/hls/20190515/b331e5f037193981f59efa16b63e149d/1557931030/index.m3u8"
+    },
+    {
+      "name": "第16",
+      "url": "http://cn3.78love.cn/hls/20190516/5ee086673fa2d510c85fccd50ab32695/1558011802/index.m3u8"
+    },
+    {
+      "name": "第17",
+      "url": "http://cn3.78love.cn/hls/20190516/f684bfb05a1ec2d6aa54a25af7915aba/1558012307/index.m3u8"
+    },
+    {
+      "name": "第18",
+      "url": "http://cn3.fa1255.cn/hls/20190517/784748a50f59324d08fa1b8650f74489/1558101525/index.m3u8"
+    },
+    {
+      "name": "第19",
+      "url": "http://cn3.fa1255.cn/hls/20190517/01481330f6cf097b2e742ab8d639f629/1558101906/index.m3u8"
+    },
+    {
+      "name": "第20",
+      "url": "http://cn3.fa1255.cn/hls/20190518/c7ab229c67fa94f8380befe0ab713be4/1558185066/index.m3u8"
+    },
+    {
+      "name": "第21",
+      "url": "http://cn3.fa1255.cn/hls/20190518/b53663a0e591baf922d748ec0f3fda10/1558185437/index.m3u8"
+    },
+    {
+      "name": "第22",
+      "url": "http://cn3.fa1255.cn/hls/20190519/1897bd869fe99fc4884338b021dc2a3f/1558271354/index.m3u8"
+    },
+    {
+      "name": "第23",
+      "url": "http://cn3.fa1255.cn/hls/20190519/99c55ce8057cde8e3082458f7042a890/1558271669/index.m3u8"
+    },
+    {
+      "name": "第24",
+      "url": "http://cn3.fa1255.cn/hls/20190520/05e395cb72a8026c6293481617fbe572/1558357105/index.m3u8"
+    },
+    {
+      "name": "第25",
+      "url": "http://cn3.fa1255.cn/hls/20190520/e9d77739d54da0430044beaaa2dd975c/1558357414/index.m3u8"
+    },
+    {
+      "name": "第26",
+      "url": "http://cn3.fa1255.cn/hls/20190521/78add1621be5d89639fd8c9e951496f4/1558443954/index.m3u8"
+    },
+    {
+      "name": "第27",
+      "url": "http://cn3.fa1255.cn/hls/20190521/bcb39f477b0fa954859553babe14fd42/1558444284/index.m3u8"
+    },
+    {
+      "name": "第28",
+      "url": "http://cn3.fa1255.cn/hls/20190523/dd03a2b47417ddf253068d815518f698/1558543654/index.m3u8"
+    },
+    {
+      "name": "第29",
+      "url": "http://cn3.fa1255.cn/hls/20190523/6079cfca7120aa8378373369c0ecaa71/1558544044/index.m3u8"
+    },
+    {
+      "name": "第30",
+      "url": "http://cn3.fa1255.cn/hls/20190523/ed9a14fc8c9fd822ce5b83f920ff670e/1558616896/index.m3u8"
+    },
+    {
+      "name": "第31",
+      "url": "http://cn3.fa1255.cn/hls/20190523/6b63bdbd877eaf8cdc868eccc88bda13/1558617242/index.m3u8"
+    },
+    {
+      "name": "第32",
+      "url": "http://cn3.fa1255.cn/hls/20190524/b98b6265ff1feb79e2918f83cbf8d394/1558702671/index.m3u8"
+    },
+    {
+      "name": "第33",
+      "url": "http://cn3.fa1255.cn/hls/20190524/cac81451ec21749d934122652411a4ad/1558702978/index.m3u8"
+    },
+    {
+      "name": "第34",
+      "url": "http://cn3.fa1255.cn/hls/20190525/fbd8e7e7104db06f372ce859ec056ecf/1558788965/index.m3u8"
+    },
+    {
+      "name": "第35",
+      "url": "http://cn3.fa1255.cn/hls/20190525/2fc193d21f0011f6095e797b5d73b5f7/1558790049/index.m3u8"
+    },
+    {
+      "name": "第36",
+      "url": "http://cn3.fa1255.cn/hls/20190526/49c5b84a055e0f03e726f1b0fe10fc76/1558872498/index.m3u8"
+    },
+    {
+      "name": "第37",
+      "url": "http://cn3.fa1255.cn/hls/20190526/38296fd9fc3fa9c47a76994afafefee5/1558876244/index.m3u8"
+    },
+    {
+      "name": "第38",
+      "url": "http://cn3.fa1255.cn/hls/20190527/403d8cbc5120b608510343a472d734c3/1558959681/index.m3u8"
+    },
+    {
+      "name": "第39",
+      "url": "http://cn3.fa1255.cn/hls/20190527/fc0314271880b088c53d17ced167b689/1558962475/index.m3u8"
+    }
+  ]
+}
